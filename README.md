@@ -1,5 +1,9 @@
-<h2 align="left">Hello. My name is Lucas Royland.</h2>
+<h2 align="left">Hey, I'm Lucas Royland.</h2>
 <p align="left">
+  I'm currently working on projects in Quantum Computing, Bioinformatics, Nutrition, and Preventive Care. I'll gradually be putting some of that on Github (and sorry if there isn't more to peruse since the bulk of my past work was proprietary/fouo).
+</p>
+<p align="left">
+  In the past I've dealt with Beam Physics, Particle Physics, Video Game Design, Biochemistry (emphasis on Nutrition and Genetics/Proteomics), Nuclear Policy (and simulation), Drone Development & Operations, Digital Journalism, 3-D Printing, and a variety of projects for affordable medicine/care/housing.
 </p>
 
 <!--
